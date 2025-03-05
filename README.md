@@ -22,5 +22,5 @@ A sleek and responsive Weather Dashboard that fetches real-time weather data usi
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Ayush01arya/weather-dashboard.git
+   git clone https://github.com/Ayush01arya/Z1.git
    cd weather-dashboard
